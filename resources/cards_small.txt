@@ -1,0 +1,11 @@
+ID Idaho West
+WY Wyoming West
+CA California West
+MT Montana North
+OR Oregon North
+UT Utah West
+WA Washington West
+NV Nevada South
+CO Colorado South
+NM NewMexico West
+AZ Arizona South
